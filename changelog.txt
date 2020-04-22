@@ -1,4 +1,7 @@
-﻿1.1.7:
+﻿1.1.8:
+Added 1.1.8 binaries for Darwin and ARM v7 by tvhk-dev
+
+1.1.7:
 Added 1.1.6 and 1.1.7 for ARM v6 by Allin
 
 1.1.1:
